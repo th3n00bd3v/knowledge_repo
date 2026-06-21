@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Repository</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+        tailwind.config = {
+            darkMode: "class"
+        };
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="bg-slate-100 dark:bg-slate-950">
+
+<div class="app-layout">
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="sidebar">
+
+        <div class="sidebar-header">
+            <h1>Knowledge Repository</h1>
+            <p>Personal Media Hub</p>
+        </div>
+
+        <nav class="sidebar-nav">
+
+            <a href="index.html" class="nav-item active">
+                🏠 Dashboard
+            </a>
+
+            <a href="pages/bookmarks.html" class="nav-item">
+                🔖 Bookmarks
+            </a>
+
+            <a href="pages/books.html" class="nav-item">
+                📚 Books
+            </a>
+
+            <a href="pages/movies.html" class="nav-item">
+                🎬 Movies
+            </a>
+
+            <a href="pages/tvshows.html" class="nav-item">
+                📺 TV Shows
+            </a>
+
+            <a href="pages/anime.html" class="nav-item">
+                🌸 Anime
+            </a>
+
+            <a href="pages/courses.html" class="nav-item">
+                🎓 Courses
+            </a>
+
+        </nav>
+
+        <div class="sidebar-footer">
+            <button id="themeToggle" class="theme-btn">
+                🌙 Dark Mode
+            </button>
+        </div>
+
+    </aside>
+
+    <!-- Main -->
+    <main class="content">
+
+        <header class="page-header">
+
+            <div>
+                <h2 align="justify">Dashboard</h2>
+            </div>
+
+        </header>
+
+        <section class="dashboard-grid">
+
+            <a href="pages/bookmarks.html" class="dashboard-card">
+                <div class="dashboard-icon">🔖</div>
+                <div>
+                    <h3>Bookmarks</h3>
+                    <p>Manage websites and resources</p>
+                </div>
+            </a>
+
+            <a href="pages/books.html" class="dashboard-card">
+                <div class="dashboard-icon">📚</div>
+                <div>
+                    <h3>Books</h3>
+                    <p>Reading list and book categories</p>
+                </div>
+            </a>
+
+            <a href="pages/movies.html" class="dashboard-card">
+                <div class="dashboard-icon">🎬</div>
+                <div>
+                    <h3>Movies</h3>
+                    <p>Watchlist and ratings</p>
+                </div>
+            </a>
+
+            <a href="pages/tvshows.html" class="dashboard-card">
+                <div class="dashboard-icon">📺</div>
+                <div>
+                    <h3>TV Shows</h3>
+                    <p>Track your series</p>
+                </div>
+            </a>
+
+            <a href="pages/anime.html" class="dashboard-card">
+                <div class="dashboard-icon">🌸</div>
+                <div>
+                    <h3>Anime</h3>
+                    <p>Watch progress and ratings</p>
+                </div>
+            </a>
+
+            <a href="pages/courses.html" class="dashboard-card">
+                <div class="dashboard-icon">🎓</div>
+                <div>
+                    <h3>Courses</h3>
+                    <p>Learning progress tracker</p>
+                </div>
+            </a>
+
+        </section>
+
+    </main>
+
+</div>
+
+<script src="js/common.js"></script>
+
+</body>
+</html>

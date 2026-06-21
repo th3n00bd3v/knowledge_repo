@@ -1,0 +1,51 @@
+[
+  {
+    "title": "GitHub",
+    "subtitle": "Source Code Hosting",
+    "category": "Development",
+    "status": "Development",
+    "url": "https://github.com"
+  },
+  {
+    "title": "MDN Web Docs",
+    "subtitle": "JavaScript Documentation",
+    "category": "Documentation",
+    "status": "Documentation",
+    "url": "https://developer.mozilla.org"
+  },
+  {
+    "title": "Stack Overflow",
+    "subtitle": "Programming Community",
+    "category": "Development",
+    "status": "Development",
+    "url": "https://stackoverflow.com"
+  },
+  {
+    "title": "DevDocs",
+    "subtitle": "API Documentation",
+    "category": "Documentation",
+    "status": "Documentation",
+    "url": "https://devdocs.io"
+  },
+  {
+    "title": "Can I Use",
+    "subtitle": "Browser Compatibility",
+    "category": "Reference",
+    "status": "Reference",
+    "url": "https://caniuse.com"
+  },
+  {
+    "title": "Tailwind CSS",
+    "subtitle": "Utility First CSS Framework",
+    "category": "Frontend",
+    "status": "Frontend",
+    "url": "https://tailwindcss.com"
+  },
+  {
+    "title": "Cloudflare",
+    "subtitle": "DNS and CDN",
+    "category": "Infrastructure",
+    "status": "Infrastructure",
+    "url": "https://cloudflare.com"
+  }
+]

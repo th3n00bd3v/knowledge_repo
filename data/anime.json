@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Attack on Titan",
+    "subtitle": "89 Episodes",
+    "category": "Action",
+    "status": "Completed"
+  },
+  {
+    "title": "Frieren",
+    "subtitle": "Fantasy Adventure",
+    "category": "Others",
+    "status": "Watching"
+  },
+  {
+    "title": "Solo Leveling",
+    "subtitle": "Season 2",
+    "category": "Action",
+    "status": "Watching"
+  },
+  {
+    "title": "Demon Slayer",
+    "subtitle": "Hashira Training Arc",
+    "category": "Action",
+    "status": "Watching"
+  },
+  {
+    "title": "Steins;Gate",
+    "subtitle": "24 Episodes",
+    "category": "Others",
+    "status": "Completed"
+  },
+  {
+    "title": "Vinland Saga",
+    "subtitle": "Season 2",
+    "category": "Mature",
+    "status": "Watchlist"
+  },
+  {
+    "title": "Death Note",
+    "subtitle": "37 Episodes",
+    "category": "Mature",
+    "status": "Completed"
+  },
+  {
+    "title": "Kaguya-sama: Love Is War",
+    "subtitle": "Romantic Comedy",
+    "category": "Romance",
+    "status": "Watchlist"
+  },
+  {
+    "title": "Grand Blue",
+    "subtitle": "Comedy",
+    "category": "Comedy",
+    "status": "Watchlist"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Google Cybersecurity Professional Certificate",
+    "platform": "Coursera",
+    "subtitle": "Professional Certificate",
+    "category": "Cybersecurity",
+    "status": "In Progress",
+    "progress": 65,
+    "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+  },
+  {
+    "title": "Python for Everybody",
+    "platform": "Coursera",
+    "subtitle": "Programming Fundamentals",
+    "category": "Programming",
+    "status": "Completed",
+    "progress": 100,
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "title": "The Complete Web Developer Bootcamp",
+    "platform": "Udemy",
+    "subtitle": "Full Stack Development",
+    "category": "Web Development",
+    "status": "In Progress",
+    "progress": 40,
+    "url": "https://www.udemy.com"
+  },
+  {
+    "title": "Ethical Hacking Essentials",
+    "platform": "EC-Council",
+    "subtitle": "Cybersecurity",
+    "category": "Cybersecurity",
+    "status": "Completed",
+    "progress": 100,
+    "url": "https://codered.eccouncil.org"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "platform": "Coursera",
+    "subtitle": "AI & Machine Learning",
+    "category": "AI & Machine Learning",
+    "status": "Planned",
+    "progress": 0,
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+  },
+  {
+    "title": "React Frontend Development",
+    "platform": "Udemy",
+    "subtitle": "Frontend Engineering",
+    "category": "Web Development",
+    "status": "In Progress",
+    "progress": 75,
+    "url": "https://www.udemy.com"
+  }
+]

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+        tailwind.config = {
+            darkMode: "class"
+        };
+    </script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body class="bg-slate-100 dark:bg-slate-950">
+
+<div class="app-layout">
+
+    <aside class="sidebar">
+
+        <div class="sidebar-header">
+            <h1>My Dashboard</h1>
+            <p>Personal Media Hub</p>
+        </div>
+
+        <nav class="sidebar-nav">
+
+            <a href="../index.html" class="nav-item">🏠 Dashboard</a>
+            <a href="bookmarks.html" class="nav-item">🔖 Bookmarks</a>
+            <a href="books.html" class="nav-item active">📚 Books</a>
+            <a href="movies.html" class="nav-item">🎬 Movies</a>
+            <a href="tvshows.html" class="nav-item">📺 TV Shows</a>
+            <a href="anime.html" class="nav-item">🌸 Anime</a>
+            <a href="courses.html" class="nav-item">🎓 Courses</a>
+
+        </nav>
+
+        <div class="sidebar-footer">
+            <button id="themeToggle" class="theme-btn">
+                🌙 Dark Mode
+            </button>
+        </div>
+
+    </aside>
+
+    <main class="content">
+
+        <div class="page-header">
+            <h2>Books</h2>
+            <p>Reading list and book categories</p>
+        </div>
+
+        <input
+            id="searchInput"
+            class="search-box"
+            placeholder="Search books..."
+        >
+
+        <div
+            id="contentGrid"
+            class="content-grid">
+        </div>
+
+    </main>
+
+</div>
+
+<script src="../js/common.js"></script>
+<script src="../js/page-loader.js"></script>
+
+<script>
+loadData("../data/books.json");
+</script>
+
+</body>
+</html>

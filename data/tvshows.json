@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Breaking Bad",
+    "subtitle": "5 Seasons",
+    "category": "Drama",
+    "status": "Completed"
+  },
+  {
+    "title": "The Boys",
+    "subtitle": "Season 4",
+    "category": "Action",
+    "status": "Watching"
+  },
+  {
+    "title": "Dark",
+    "subtitle": "3 Seasons",
+    "category": "Mystery",
+    "status": "Completed"
+  },
+  {
+    "title": "Mr. Robot",
+    "subtitle": "4 Seasons",
+    "category": "Psychological",
+    "status": "Watching"
+  },
+  {
+    "title": "Severance",
+    "subtitle": "Season 2",
+    "category": "Psychological",
+    "status": "Watchlist"
+  },
+  {
+    "title": "The Last of Us",
+    "subtitle": "Season 2",
+    "category": "Horror",
+    "status": "Watchlist"
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "subtitle": "8 Seasons",
+    "category": "Comedy",
+    "status": "Watchlist"
+  },
+  {
+    "title": "Normal People",
+    "subtitle": "Limited Series",
+    "category": "Romance",
+    "status": "Watchlist"
+  }
+]

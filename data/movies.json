@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Interstellar (2014)",
+    "subtitle": "Christopher Nolan",
+    "category": "International",
+    "status": "Watched"
+  },
+  {
+    "title": "Inception (2010)",
+    "subtitle": "Christopher Nolan",
+    "category": "International",
+    "status": "Watched"
+  },
+  {
+    "title": "Dune: Part Two (2024)",
+    "subtitle": "Denis Villeneuve",
+    "category": "International",
+    "status": "Watchlist"
+  },
+  {
+    "title": "The Dark Knight (2008)",
+    "subtitle": "Christopher Nolan",
+    "category": "International",
+    "status": "Watched"
+  },
+  {
+    "title": "Oppenheimer (2023)",
+    "subtitle": "Christopher Nolan",
+    "category": "International",
+    "status": "Watchlist"
+  },
+  {
+    "title": "The Matrix (1999)",
+    "subtitle": "Wachowski Sisters",
+    "category": "International",
+    "status": "Watched"
+  },
+  {
+    "title": "Blade Runner 2049 (2017)",
+    "subtitle": "Denis Villeneuve",
+    "category": "International",
+    "status": "Watchlist"
+  },
+  {
+    "title": "RRR (2022)",
+    "subtitle": "S. S. Rajamouli",
+    "category": "Regional",
+    "status": "Watchlist"
+  },
+  {
+    "title": "Kantara (2022)",
+    "subtitle": "Rishab Shetty",
+    "category": "Regional",
+    "status": "Watchlist"
+  }
+]
